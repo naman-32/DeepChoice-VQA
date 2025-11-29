@@ -1,7 +1,7 @@
 # DeepChoice-VQA
 
-This repository contains the work done as part of laboratory project under Dr. Prateek Narang, Bits Pilani. 
-
+- This repository contains the work done as part of project-based course under Dr. Pratik Narang, CSIS, BITS Pilani.
+- [`Adversarial Camouflage Review Paper.pdf`](Adversarial_Camouflage_Review_Paper.pdf) – This review paper has been written in partial fulfilment of the selection process for this course.
 
 ## Project Overview
 Visual Question Answering (VQA) on the FloodNet dataset with multiple architectures. 
